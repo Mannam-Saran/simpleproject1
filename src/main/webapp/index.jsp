@@ -128,8 +128,8 @@
 
 <!-- HERO -->
 <div class="hero">
-    <h1>BlockBuster Movie</h1>
-    <p>Watch the latest blockbuster hit, now streaming exclusively.</p>
+    <h1>MiniFlix Movie</h1>
+    <p>Watch the latest Miniflix movies over here.</p>
     <button>Play</button>
 </div>
 
