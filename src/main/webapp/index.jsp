@@ -116,7 +116,7 @@
 
 <!-- NAVBAR -->
 <div class="navbar">
-    <div class="logo">MiniFlix</div>
+    <div class="logo">Neteflix</div>
     <div class="nav-links">
         <a href="#">Home</a>
         <a href="#">TV Shows</a>
@@ -128,8 +128,8 @@
 
 <!-- HERO -->
 <div class="hero">
-    <h1>MiniFlix Movie</h1>
-    <p>Watch the latest Miniflix movies over here.</p>
+    <h1>Netflix Movie</h1>
+    <p>Watch the latest Netflix movies over here.</p>
     <button>Play</button>
 </div>
 
