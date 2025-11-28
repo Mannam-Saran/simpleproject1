@@ -53,7 +53,7 @@
         margin-top: 60px;
     }
     .hero h1 {
-        font-size: 60px;
+        font-size: 600px;
         margin: 0;
         color: red;
     }
