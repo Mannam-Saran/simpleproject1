@@ -116,7 +116,7 @@
 
 <!-- NAVBAR -->
 <div class="navbar">
-    <div class="logo">Neteflix</div>
+    <div class="logo">Saran Mannam Movies</div>
     <div class="nav-links">
         <a href="#">Home</a>
         <a href="#">TV Shows</a>
