@@ -1,16 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<htm lang="en">
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Mini Netflix</title>
+<title>Mini Netflix</title
 
 <style>
-    body {
-        margin: 0;
+    body         margin: 0;
         background: #141414;
         font-family: Arial, Helvetica, sans-serif;
-        color: white;
+        color: white
     }
 
     /* NAVBAR */
@@ -21,7 +20,7 @@
         position: fixed;
         top: 0;
         width: 100%;
-        background: rgba(0,0,0,0.8);
+        background: rgba(0,0,0,0.8
         z-index: 10;
     }
     .logo {
@@ -155,7 +154,23 @@
         <div class="movie"><img src="https://picsum.photos/200/120?10"></div>
     </div>
 </div>
-
+<div>
+    <form action="/login" method="POST">
+        <div>
+            <label for="username">Username:</label><br>
+            <input type="text" id="username" name="username" required>
+        </div>
+        
+        <div>
+            <label for="password">Password:</label><br>
+            <input type="text" id="password" name="password" required>
+        </div>
+        
+        <div>
+            <input type="submit" value="Login">
+        </div>
+    </form>
+</div>
 <div class="row">
     <h2>New Releases</h2>
     <div class="movie-container">
